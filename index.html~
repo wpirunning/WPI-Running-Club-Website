@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- link rel="shortcut icon" href="http://getbootstrap.com/docs-assets/ico/favicon.png" -->
+
+    <title>WPI Running Club | Home</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="http://run.wpi.edu/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://run.wpi.edu/css/template.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <!-- http://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://run.wpi.edu/index.html">WPI Running Club</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+          
+                
+                  <li><a href="http://run.wpi.edu/about.html">About</a></li>
+                
+          
+                
+                  <li class="active"><a href="http://run.wpi.edu/index.html" class="active">Home</a></li>
+                
+          
+                
+          
+                
+          
+                
+          
+                
+                  <li><a href="http://run.wpi.edu/schedule.html">Schedule</a></li>
+                
+          
+                
+                  <li><a href="http://run.wpi.edu/sitemap.xml"></a></li>
+                
+          
+          <!-- handle routes -->
+            
+            <li class="dropdown">
+            
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Routes <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="http://run.wpi.edu/routes_beginner.html">Beginner</a></li>
+                      <li><a href="http://run.wpi.edu/routes_intermediate.html">Intermediate</a></li>
+                      <li><a href="http://run.wpi.edu/routes_advanced.html">Advanced</a></li>
+                    </ul>
+                    </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+
+         <div class="page-header">
+        <h2>Welcome</h2>
+        <p>
+        You have found yourself at the website for the WPI Running Club. We are group which promotes and fosters recreational running at WPI. Our group welcomes all levels of running ability. We meet each Monday, Wednesday, and Friday during the term.
+        </p>
+        <img src="http://run.wpi.edu/img/Rcircle.PNG" class="img-responsive center-block" alt="Running Club Insignia"></img>
+      </div>
+
+
+
+    </div><!-- /.container -->
+
+    <div id="footer">
+    <div class="container">
+        <hr>
+        <h6 align="center"><a href="https://www.wpi.edu">WPI website</a> | Made with <a href="http://www.getbootstrap.com/">Bootstrap</a> and <a href="http://jekyllrb.com/">Jekyll</a> | <a href="https://www.github.com/sjkelly/WPI-Running-Club-Website">Fork on Github</a></h6>
+    </div>
+    </div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="http://run.wpi.edu/js/bootstrap.js"></script>
+
+</body></html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- link rel="shortcut icon" href="http://getbootstrap.com/docs-assets/ico/favicon.png" -->
+
+    <title>WPI Running Club | About</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="http://run.wpi.edu/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://run.wpi.edu/css/template.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <!-- http://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://run.wpi.edu/index.html">WPI Running Club</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+          
+                
+                  <li class="active"><a href="http://run.wpi.edu/about.html" class="active">About</a></li>
+                
+          
+                
+                  <li><a href="http://run.wpi.edu/index.html">Home</a></li>
+                
+          
+                
+          
+                
+          
+                
+          
+                
+                  <li><a href="http://run.wpi.edu/schedule.html">Schedule</a></li>
+                
+          
+                
+                  <li><a href="http://run.wpi.edu/sitemap.xml"></a></li>
+                
+          
+          <!-- handle routes -->
+            
+            <li class="dropdown">
+            
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Routes <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="http://run.wpi.edu/routes_beginner.html">Beginner</a></li>
+                      <li><a href="http://run.wpi.edu/routes_intermediate.html">Intermediate</a></li>
+                      <li><a href="http://run.wpi.edu/routes_advanced.html">Advanced</a></li>
+                    </ul>
+                    </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+
+        <div class="page-header">
+<h2>About Us</h2>
+<p>
+Our club was founded in Spring of 2013. 
+The purpose of the Running Club is to bring together WPI students who are interested in running and provide an environment which supports personal growth and camaraderie. We create a social and constructive atmosphere with regular practices and meetings.
+</p>
+
+<h3>Mailing List</h3>
+The mailing list is a low traffic way of staying notified about weekly running plans. 
+
+Please email the officers at <a href="mailto:running-execs@wpi.edu">running-execs@wpi.edu</a> to be added to the list.
+
+
+<h3>Officers</h3>
+<ul>
+    <li><b>President:     </b><a href="mailto:jwcolfer@wpi.edu"> Jack Colfer</a></li>
+    <li><b>Vice President:</b><a href="mailto:sclaudage@wpi.edu"> Steve Laudage</a></li>
+    <li><b>Secretary:     </b><a href="mailto:bgsarkis@wpi.edu"> Ben Sarkis</a></li>
+    <li><b>Treasurer:     </b><a href="mailto:imdiamond@wpi.edu"> Ian Diamond</a></li>
+    <li><b>Team Captain:  </b><a href="mailto:eszandrow@wpi.edu"> Eric Zandrow</a></li>
+</ul>
+
+<h3>Constitution</h3>
+You can find a PDF of our constitution <a href="http://run.wpi.edu/pdf/constitution.pdf">here</a>.
+
+<h3>Local Running Clubs</h3>
+We are not affiliated with any of these groups, but they have a similar mission to ours.
+<ul>
+    <li><a href="http://www.cmsrun.org/">Central Mass Striders</a></li>
+</ul>
+
+</div>
+
+
+    </div><!-- /.container -->
+
+    <div id="footer">
+    <div class="container">
+        <hr>
+        <h6 align="center"><a href="https://www.wpi.edu">WPI website</a> | Made with <a href="http://www.getbootstrap.com/">Bootstrap</a> and <a href="http://jekyllrb.com/">Jekyll</a> | <a href="https://www.github.com/sjkelly/WPI-Running-Club-Website">Fork on Github</a></h6>
+    </div>
+    </div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="http://run.wpi.edu/js/bootstrap.js"></script>
+
+</body></html>

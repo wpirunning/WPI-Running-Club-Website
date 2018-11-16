@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://run.wpi.edu</loc>
+    <lastmod>2014-10-03T15:41:18-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://run.wpi.edu/about.html</loc>
+    
+      <lastmod>2014-10-03</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://run.wpi.edu/index.html</loc>
+    
+      <lastmod>2014-10-03</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://run.wpi.edu/routes_advanced.html</loc>
+    
+      <lastmod>2014-10-03</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://run.wpi.edu/routes_beginner.html</loc>
+    
+      <lastmod>2014-10-03</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://run.wpi.edu/routes_intermediate.html</loc>
+    
+      <lastmod>2014-10-03</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://run.wpi.edu/schedule.html</loc>
+    
+      <lastmod>2014-10-03</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://run.wpi.edu/sitemap.xml</loc>
+    
+      <lastmod>2014-10-03</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+</urlset>
